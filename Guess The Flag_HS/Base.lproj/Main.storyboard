@@ -54,6 +54,7 @@
                                     <constraint firstItem="nF9-UX-eZU" firstAttribute="height" secondItem="0MO-CQ-9V9" secondAttribute="height" id="41n-Y0-FDI"/>
                                     <constraint firstItem="nF9-UX-eZU" firstAttribute="top" secondItem="0MO-CQ-9V9" secondAttribute="bottom" constant="20" id="4nS-TA-Dlp"/>
                                     <constraint firstItem="nF9-UX-eZU" firstAttribute="width" secondItem="0MO-CQ-9V9" secondAttribute="width" id="8kd-80-L3x"/>
+                                    <constraint firstAttribute="bottom" relation="greaterThanOrEqual" secondItem="I8k-jZ-cUm" secondAttribute="bottom" constant="20" id="Pcu-li-gkw"/>
                                     <constraint firstItem="I8k-jZ-cUm" firstAttribute="top" secondItem="nF9-UX-eZU" secondAttribute="bottom" constant="20" id="kgL-xW-ubr"/>
                                     <constraint firstItem="I8k-jZ-cUm" firstAttribute="height" secondItem="nF9-UX-eZU" secondAttribute="height" id="mLs-GE-UBc"/>
                                     <constraint firstItem="0MO-CQ-9V9" firstAttribute="centerX" secondItem="zXL-gy-U1h" secondAttribute="centerX" id="qQa-KW-H7v"/>
